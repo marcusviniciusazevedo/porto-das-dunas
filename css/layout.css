@@ -1,0 +1,86 @@
+*{
+	margin:0;
+	padding:0;
+}	
+
+
+
+header.cabecalho {
+	width: 100%;
+	height: 140px;
+	background: #00000;
+	
+}
+
+header.cabecalho img.logo {
+		margin:auto;
+		display:block;
+}
+
+
+nav.menu {
+		width: 100%;
+		height:auto;
+
+		background-color:#2e3092;
+	
+}
+
+
+nav.menu div.caixamenu {
+		width: 385px;
+		height: auto;
+		background-color: #2e3092;
+		margin: auto;
+	
+}
+
+nav.menu div.caixamenu ul li {
+	list-style:none;
+	display:inline;
+	margin-left:10px;
+	margin-right:10px;
+
+	
+}
+
+nav.menu div.caixamenu ul li a{
+	text-decoration: none;
+	color: white;
+	font-family: arial;
+	font-size: 18px;
+}	
+
+nav.menu div.caixamenu ul li a:hover {
+	
+	border-bottom: 2px white solid;
+	
+}
+
+
+section.container{
+	width: 1160px;
+	height:auto;
+
+	margin: auto;
+	margin-top: 40px;
+	margin-bottom: 40px;
+	padding: 20px;
+}
+
+footer.rodape {
+		width:100%;
+		height: auto;
+		padding:15px 0;
+		background-color:#2e3092;
+}
+
+footer.rodape {
+		color: white;
+		font-size: 12px;
+		font-family:arial;
+		text-align:center;
+		line-height: 22px;
+}
+
+
